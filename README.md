@@ -1,10 +1,10 @@
 # Codtech-task1
-Name : Samrendra Maurya
-Company : CodTech IT Solutions
-ID : CT08DS4332
-Domain : Embedded Systems
-Duration : 10 july to 10 august
-Mentor : Muzammil Ahmed
+*Name* : Samrendra Maurya
+*Company* : CodTech IT Solutions
+*ID* : CT08DS4332
+*Domain* : Embedded Systems
+*Duration* : 10 july to 10 august
+*Mentor* : Muzammil Ahmed
 
 ### Project Description: Arduino LED Blink
 
